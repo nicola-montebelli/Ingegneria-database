@@ -1,7 +1,7 @@
 select FirstName, LastName
 from [AdventureWorks2019].[Person].[Person]
 order by FirstName,LastName; --ordine alfabetico per nome
-
+--order by column-name ASC/DESC dove ASC è di default
 select  distinct FirstName
 				,LastName
 from [AdventureWorks2019].[Person].[Person] --stessa cosa di select Person.Person cambia solo che specifica tutto il percorso

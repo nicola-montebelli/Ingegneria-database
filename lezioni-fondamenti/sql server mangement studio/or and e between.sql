@@ -14,7 +14,7 @@ SELECT [BusinessEntityID]
       ,[ModifiedDate]
   FROM [AdventureWorks2019].[Person].[Person]
   
-  where FirstName in ('Rob','Brian','Kim');	--con IN è la stessa sotto di sotto ma più comodo
+  where FirstName in ('Rob','Brian','Kim');	--con IN è la stessa cosa di sotto ma più comodo
   --where FirstName='Rob' or FirstName = 'Brian' or FirstName='Kim';
 
 
