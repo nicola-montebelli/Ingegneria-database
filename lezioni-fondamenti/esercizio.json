@@ -1,0 +1,30 @@
+{
+"studenti":[ 
+    {
+        "nome" : "Nicola",
+        "cognome" : "Monte",
+        "eta" : 27,
+        "data-nascita" : "09-10-1998",
+        "email" : "pippo@gmail.com",
+        "corsi":["HTML","PHP","Javascript","DB"],
+        "CV":{
+        "titolo-studio":"Scuola Superiore",
+        "occupazione":"disoccupato",
+        "lingue":["italiano","inglese"]
+         }
+    },
+    {
+        "nome" : "Matteo",
+        "cognome" : "Vanni",
+        "eta" : 26,
+        "data-nascita" : "02-02-1999",
+        "email" : "pippobauden@gmail.com",
+        "corsi":["HTML","PHP","Javascript","DB","etuttecose"],
+        "CV":{
+        "titolo-studio":"Laurea in ingegneria informatica",
+        "occupazione":"tra un po lavora",
+        "lingue":["italiano","inglese"]
+         }
+    }
+    ]
+}

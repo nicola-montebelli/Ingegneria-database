@@ -1,0 +1,10 @@
+{
+    "libro":[
+        {
+        "titolo": "Necronomicon",
+        "autore": "H.P. Lovecraft",
+        "anno-pubblicazione": "1920",
+        "ISBN" : "665500"
+    }
+]
+}

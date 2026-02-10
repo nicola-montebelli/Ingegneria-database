@@ -1,0 +1,25 @@
+{
+    "film":[
+        {
+            "titolo":"Zootropolis",
+            "regista":"non-ricordo",
+            "anno-uscita":"2016",
+            "genere":["Animazione","Avventura","Thriller"],
+            "minutaggio" : 174
+        },
+        {
+            "titolo" : "Avatar3",
+            "regista": "Cameron",
+            "anno-uscita" :"2025",
+            "genere":["Avventura","Drammatico","Fantascientifico"],
+            "minutaggio":180
+        },
+        {
+            "titolo" : "Odissea",
+            "regista": "Nolan",
+            "anno-uscita" :"2026",
+            "genere":["Avventura","Drammatico","Azione","Storico","Mitologico"],
+            "minutaggio":140
+        }
+]
+}

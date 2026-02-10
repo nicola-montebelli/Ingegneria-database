@@ -1,0 +1,27 @@
+{
+    "rete":[
+        {
+            "linea":"9",
+            "fermate":[
+                 {
+                    "nome-fermata":"Rivazzurra",
+                    "lat":241,
+                    "long":999,
+                    "orari":["8:00","9:00","10:13","12:45"]
+                },
+                {
+                    "nome-fermata":"Ospedale",
+                    "lat":555,
+                    "long":325,
+                    "orari":["6:00","7:20","8:13","11:45"]
+                },
+                {
+                    "nome-fermata":"Sant'Arcangelo",
+                    "lat":1001,
+                    "long":877,
+                    "orari":["9:00","12:00","13:15","15:30"]
+                }
+            ]
+        }
+]
+}
